@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JcTHI7aH6x+4p0sz+xO5FXCN8cOY3aaFD/4k6GDyifzJWHRcG0snTUqkkQYM7uNtcEmRC774Ox443vn9OdE4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oguzhan\\Desktop\\2PROLAB\\rpg_rps_card_game\\again\\again.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oguzhan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\oguzhan\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\oguzhan\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\oguzhan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
